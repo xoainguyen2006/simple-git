@@ -7,7 +7,7 @@ Khởi tạo dự án Nodejs và cài đặt các thư viện cần thiết
 
 ```bash
 npm init
-npm install jsonfile moment random simple-git.
+npm install jsonfile moment random simple-git
 ```
 
 Tại root của dự án tạo thêm 1 file là data.json để lưu lại sự thay đổi khi commit code mới
