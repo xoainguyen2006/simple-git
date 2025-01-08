@@ -1,4 +1,4 @@
-## HƯỚNG DẪN PHÔNG BẠT TRÊN GITHUB CHỈ VỚI 40 DÒNG CODE :))
+## HƯỚNG DẪN PHÔNG BẠT TRÊN GITHUB CHỈ VỚI 40 DÒNG CODE
 
 Khởi tạo dự án Nodejs và cài đặt các thư viện cần thiết
 
